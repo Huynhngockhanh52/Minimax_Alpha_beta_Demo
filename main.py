@@ -56,6 +56,7 @@ if __name__ == "__main__":
     print("Nhập số lượng sỏi cần loại bỏ, tiếp theo mới nhập vị trí của đống để loại bỏ: ")
     print("Người chơi loại bỏ viên sỏi cuối cùng sẽ thua cuộc --> LOSE!")
     print("Example: Loại bỏ 3 viên sỏi từ đống thứ 2 --> 3 2, ENTER")
+    print("*******************************************************************************\n")
 
     player_win = True
     while True:
